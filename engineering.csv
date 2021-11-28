@@ -1,0 +1,233 @@
+Name,Rank,early_pay,mid_pay
+Princeton University,1,88000,156400
+Harvard University,2,89500,160700
+University of Chicago,3,NA,NA
+Yale University,3,77600,136300
+Columbia University,5,NA,NA
+Stanford University,5,94000,159400
+Massachusetts Institute of Technology,7,94800,163800
+Duke University,8,91300,157600
+University of Pennsylvania,8,85000,155700
+Johns Hopkins University,10,85300,148300
+Dartmouth College,11,NA,NA
+California Institute of Technology,12,91300,153000
+Northwestern University,12,84400,151600
+Brown University,14,83600,134300
+Cornell University,15,83200,146900
+Rice University,15,84200,152800
+University of Notre Dame,15,77100,136000
+Vanderbilt University,15,82000,145200
+Washington University in St Louis,19,76800,130600
+Emory University,20,NA,NA
+Georgetown University,20,NA,NA
+University of California-Berkeley,20,87700,150900
+University of Southern California,23,77900,132600
+Carnegie Mellon University,24,84300,143200
+University of California-Los Angeles,24,86300,152500
+University of Virginia,24,78900,143800
+Tufts University,27,78300,144900
+University of Michigan-Ann Arbor,27,81700,139400
+Wake Forest University,27,NA,NA
+University of North Carolina-Chapel Hill,30,NA,NA
+Boston College,31,NA,NA
+College of William & Mary,32,NA,NA
+University of Rochester,32,74700,142100
+Brandeis University,34,NA,NA
+Georgia Institute of Technology,34,79800,143700
+New York University,36,79800,146400
+Case Western Reserve University,37,77800,132400
+University of California-Santa Barbara,37,82900,148400
+Boston University,39,81400,148000
+Northeastern University,39,78600,137000
+Rensselaer Polytechnic Institute,39,76200,138100
+Tulane University,39,NA,NA
+University of California-Irvine,39,77500,154100
+Lehigh University,44,78600,141500
+University of California-Davis,44,80100,144000
+University of California-San Diego,44,82100,160200
+University of Illinois Urbana-Champaign,44,81200,139500
+University of Miami,44,NA,NA
+University of Wisconsin-Madison,44,76400,130000
+Pepperdine University,50,NA,NA
+University of Florida,50,74500,129800
+Villanova University,50,82600,144600
+Pennsylvania State University-University Park,50,NA,NA
+Ohio State University-Columbus,54,NA,NA
+University of Washington,54,NA,NA
+George Washington University,56,76700,135600
+Southern Methodist University,56,77700,134800
+University of Georgia,56,NA,NA
+University of Texas-Austin,56,NA,NA
+Fordham University,60,NA,NA
+Purdue University-West Lafayette,60,NA,NA
+Syracuse University,60,68600,126100
+University of Connecticut,60,77500,136900
+University of Maryland-College Park,60,77600,135200
+Worcester Polytechnic Institute,60,78100,138700
+Clemson University,66,71600,127300
+Yeshiva University,66,NA,NA
+Brigham Young University-Provo,68,NA,NA
+University of Pittsburgh,68,NA,NA
+Rutgers University-New Brunswick,70,75900,144100
+Baylor University,71,81200,142000
+Stevens Institute of Technology,71,80100,146600
+University of Minnesota-Twin Cities,71,74300,127900
+American University,74,NA,NA
+Clark University,74,NA,NA
+Texas A&M University-College Station,74,NA,NA
+University of Massachusetts-Amherst,74,72300,131900
+Virginia Tech,74,NA,NA
+Miami University-Oxford,79,67700,128000
+University of California-Santa Cruz,79,84900,143000
+University of Delaware,79,74700,131400
+Colorado School of Mines,82,79600,149500
+Michigan State University,82,74600,128600
+Texas Christian University,82,NA,NA
+University of Iowa,82,74200,126900
+Binghamton University-SUNY,86,NA,NA
+Indiana University-Bloomington,86,NA,NA
+Marquette University,86,74600,136400
+University of Denver,86,76500,127800
+University of San Diego,86,NA,NA
+University of Tulsa,86,87400,162000
+Florida State University,92,72600,131800
+North Carolina State University-Raleigh,92,NA,NA
+North Carolina State University-Raleigh,92,73500,126100
+University of Colorado-Boulder,92,NA,NA
+University of Vermont,92,68500,125400
+Drexel University,96,72900,128300
+Saint Louis University,96,NA,NA
+Stony Brook University-SUNY,96,NA,NA
+Auburn University,99,72200,128500
+Loyola University Chicago,99,NA,NA
+SUNY College of Environmental Science and Forestry,99,NA,NA
+University at Buffalo-SUNY,99,NA,NA
+Illinois Institute of Technology,103,69900,126300
+University of Alabama,103,NA,NA
+University of Oregon,103,NA,NA
+University of Tennessee,103,NA,NA
+Rochester Institute of Technology,107,NA,NA
+University of New Hampshire,107,71100,131000
+University of San Francisco,107,NA,NA
+University of South Carolina,107,NA,NA
+Iowa State University,111,73500,124300
+University of Dayton,111,73000,123700
+University of Missouri,111,NA,NA
+University of Nebraska-Lincoln,111,70900,125800
+University of Oklahoma,111,NA,NA
+University of the Pacific,111,77800,147300
+University of Utah,111,73000,135000
+Michigan Technological University,118,75100,124500
+Seton Hall University,118,NA,NA
+Temple University,118,NA,NA
+University of California-Riverside,118,77000,148600
+University of Kansas,118,72600,124500
+University of St. Thomas,118,NA,NA
+The Catholic University of America,124,NA,NA
+DePaul University,124,73700,127900
+Duquesne University,124,NA,NA
+Howard University,124,NA,NA
+University of Arizona,124,74600,128000
+Arizona State University-Tempe,129,NA,NA
+Clarkson University,129,73600,138700
+Colorado State University,129,NA,NA
+New School,129,NA,NA
+Hofstra University,133,72300,128600
+University of Kentucky,133,NA,NA
+Kansas State University,135,NA,NA
+Louisiana State University-Baton Rouge,135,NA,NA
+Mercer University,135,NA,NA
+New Jersey Institute of Technology,135,68900,126700
+Rutgers University-Newark,135,NA,NA
+University of Arkansas,135,68300,124100
+University of Cincinnati,135,NA,NA
+University of Mississippi,135,71100,123900
+George Mason University,143,75300,134600
+Oregon State University,143,73800,133300
+Washington State University,143,NA,NA
+Adelphi University,146,NA,NA
+Ohio University,146,NA,NA
+San Diego State University,146,76400,131900
+St. John Fisher College,146,NA,NA
+University at Albany-SUNY,146,NA,NA
+University of Texas-Dallas,146,NA,NA
+Illinois State University,152,NA,NA
+Immaculata University,152,NA,NA
+Oklahoma State University,152,71800,127000
+University of California-Merced,152,NA,NA
+University of Illinois-Chicago,152,NA,NA
+University of La Verne,152,NA,NA
+University of Massachusetts-Lowell,152,73500,128500
+Seattle Pacific University,159,80100,140200
+University of Alabama-Birmingham,159,NA,NA
+University of Maryland-Baltimore County,159,76100,133400
+University of Rhode Island,159,NA,NA
+University of South Florida,159,NA,NA
+Biola University,164,NA,NA
+Maryville University of St Louis,164,NA,NA
+Missouri University of Science & Technology,164,NA,NA
+St. John's University,164,NA,NA
+Virginia Commonwealth University,164,NA,NA
+Union University,169,NA,NA
+University of Hawaii-Manoa,169,NA,NA
+Edgewood College,171,NA,NA
+Florida Institute of Technology,171,71200,127600
+University of Idaho,171,NA,NA
+University of Louisville,171,NA,NA
+University of Wyoming,171,71700,131200
+Ball State University,176,NA,NA
+Lipscomb University,176,NA,NA
+Mississippi State University,176,NA,NA
+Montclair State University,176,NA,NA
+Texas Tech University,176,76400,132800
+University of Central Florida,176,NA,NA
+University of New Mexico,176,67000,125600
+Andrews University,183,NA,NA
+Azusa Pacific University,183,NA,NA
+University of Maine,183,NA,NA
+West Virginia University,183,72600,131600
+Widener University,183,NA,NA
+Kent State University,188,NA,NA
+North Dakota State University,188,NA,NA
+Pace University,188,NA,NA
+Robert Morris University,188,NA,NA
+Suffolk University,188,NA,NA
+University of Hartford,188,70600,129100
+Bowling Green State University,194,NA,NA
+University of Houston,194,75600,134200
+Western Michigan University,194,NA,NA
+Indiana University-Purdue University-Indianapolis,197,NA,NA
+Lesley University,197,NA,NA
+University of Alabama-Huntsville,197,NA,NA
+University of Colorado-Denver,197,NA,NA
+University of Nevada-Reno,197,70900,125100
+California State University-Fullerton,202,70800,133500
+Central Michigan University,202,NA,NA
+Louisiana Tech University,202,73500,133700
+South Dakota State University,202,NA,NA
+University of Alaska-Fairbanks,202,NA,NA
+University of North Carolina-Charlotte,202,NA,NA
+University of North Dakota,202,NA,NA
+University of South Dakota,202,NA,NA
+East Carolina University,210,NA,NA
+Montana State University,210,NA,NA
+Old Dominion University,210,NA,NA
+University of Missouri-Kansas City,210,NA,NA
+Ashland University,214,NA,NA
+Dallas Baptist University,214,NA,NA
+Northern Illinois University,214,NA,NA
+Nova Southeastern University,214,NA,NA
+Southern Illinois University-Carbondale,214,NA,NA
+University of Montana,214,NA,NA
+Benedictine University,220,NA,NA
+California State University-Fresno,220,68600,135700
+Gardner-Webb University,220,NA,NA
+New Mexico State University,220,71800,128100
+Shenandoah University,220,NA,NA
+Tennessee Technological University,220,NA,NA
+University of Massachusetts-Boston,220,NA,NA
+University of Massachusetts-Dartmouth,220,70800,125000
+University of Missouri-St Louis,220,NA,NA
+University of North Carolina-Greensboro,220,NA,NA
+University of Southern Mississippi,220,NA,NA
+Utah State University,220,NA,NA
